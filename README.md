@@ -1,0 +1,4 @@
+# Spatial-Detection-of-Slums-in-Dhaka-Using-U-Net-
+Urban slums pose significant challenges for city planning and development. Identifying slum areas using satellite imagery can aid in better decision-making for resource allocation and infrastructure development. This project focuses on detecting slums in Dhaka using machine learning techniques on satellite images.
+ #This is done for (Acme AI Fellowship Program 2025- Stage 01)
+
